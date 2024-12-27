@@ -6,9 +6,6 @@ export default {
   // 格式: /<仓库名>/
   base: '/ZuoglTools/',
 
-  // 添加构建输出目录配置
-  outDir: '../dist',
-
   themeConfig: {
     // 导航栏
     nav: [
