@@ -68,5 +68,15 @@ export default {
       message: '基于 MIT 许可发布',
       copyright: 'Copyright © 2024-present Zuogl'
     }
-  }
+  },
+
+  head: [
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: 'KnaRizWOpSs3Ho2y7l_3J25QwfKPa9VgKkwMDSv8T7M' // 替换成你的验证码
+      }
+    ]
+  ]
 } 
