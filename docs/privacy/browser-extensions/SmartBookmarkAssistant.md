@@ -1,27 +1,34 @@
-# 插件一隐私政策
+# Smart Bookmark Assistant Privacy Policy
 
-## 数据收集
-### 收集的数据类型
-- 用户设置
-- 使用统计
+## Data Collection and Usage
+This extension collects the following data to provide services:
+- Bookmark data (title, URL, etc.)
+- Webpage metadata (description, keywords, etc.)
+- User language preferences
 
-### 数据使用目的
-- 提供核心功能
-- 改进用户体验
+## Data Storage
+- All data is stored locally in your browser
+- No data is uploaded to any servers (except for AI service calls)
+- AI service calls are only used for generating tags and do not store user data
 
-## 数据存储
-### 存储位置
-- 本地存储
-- 云端存储（如适用）
+## Permission Usage
+This extension requires the following permissions:
+1. bookmarks: For reading and managing bookmarks
+2. storage: For storing tag data locally
+3. tabs: For accessing current page information
+4. scripting: For analyzing page content to generate tags
 
-### 存储期限
-详细说明数据保留时间...
+## User Rights
+- Users can choose not to install or uninstall the extension at any time
+- All locally stored data will be automatically removed upon uninstallation
+- If you do not agree with data collection and AI service calls, please do not install this extension
 
-## 数据保护
-### 安全措施
-详细说明采取的安全措施...
+## Contact Information
+For privacy-related inquiries, please contact: zuogl448@gmail.com
 
-## 用户权利
-1. 数据访问权
-2. 数据删除权
-3. 数据导出权 
+---
+
+## Language / 语言
+- [English Version](SmartBookmarkAssistant.md)
+- [中文版](SmartBookmarkAssistantZH_CN.md)
+

@@ -13,11 +13,7 @@
 
 ### [浏览器插件隐私政策](/privacy/browser-extensions/)
 - [智能书签助手隐私政策](/privacy/browser-extensions/SmartBookmarkAssistant)
-- [插件二隐私政策](/privacy/browser-extensions/plugin2)
 
-### [效率工具隐私政策](/privacy/efficiency/)
-- [工具一隐私政策](/privacy/efficiency/tool1)
-- [工具二隐私政策](/privacy/efficiency/tool2)
 
 ## 更新日志
 我们会定期更新隐私政策以确保其符合最新的法律要求和我们的业务实践。 
