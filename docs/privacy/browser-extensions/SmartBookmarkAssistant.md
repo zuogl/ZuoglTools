@@ -5,6 +5,7 @@ This extension collects the following data to provide services:
 - Bookmark data (title, URL, etc.)
 - Webpage metadata (description, keywords, etc.)
 - User language preferences
+- User location (country-level) to facilitate automatic translation of AI-generated tags into the user's corresponding language.
 
 ## Data Storage
 - All data is stored locally in your browser
