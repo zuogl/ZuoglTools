@@ -11,4 +11,4 @@
 ### [智能书签助手](/privacy/browser-extensions/SmartBookmarkAssistant)
 智能书签助手是一个帮助用户管理浏览器书签的插件，它只在本地处理数据，不会上传任何用户数据到服务器。
 
-[English Version](/privacy/browser-extensions/SmartBookmarkAssistant) | [中文版](/privacy/browser-extensions/SmartBookmarkAssistantZH_CN)
+[English Version](./SmartBookmarkAssistant) | [中文版](./SmartBookmarkAssistantZH_CN)

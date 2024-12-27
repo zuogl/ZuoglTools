@@ -29,5 +29,5 @@
 ---
 
 ## Language / 语言
-- [English Version](SmartBookmarkAssistant.md)
-- [中文版](SmartBookmarkAssistantZH_CN.md)
+- [English Version](./SmartBookmarkAssistant)
+- [中文版](./SmartBookmarkAssistantZH_CN)
