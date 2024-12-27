@@ -1,0 +1,23 @@
+# 隐私政策
+
+## 总则
+我们高度重视用户的隐私和个人信息保护。本隐私政策说明了我们如何收集、使用和保护您的信息。
+
+## 基本原则
+我们承诺：
+1. 只收集必要的信息
+2. 不会出售您的个人信息
+3. 采取适当的措施保护您的信息安全
+
+## 隐私政策导航
+
+### [浏览器插件隐私政策](/privacy/browser-extensions/)
+- [智能书签助手隐私政策](/privacy/browser-extensions/SmartBookmarkAssistant)
+- [插件二隐私政策](/privacy/browser-extensions/plugin2)
+
+### [效率工具隐私政策](/privacy/efficiency/)
+- [工具一隐私政策](/privacy/efficiency/tool1)
+- [工具二隐私政策](/privacy/efficiency/tool2)
+
+## 更新日志
+我们会定期更新隐私政策以确保其符合最新的法律要求和我们的业务实践。 
