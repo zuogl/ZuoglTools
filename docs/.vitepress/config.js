@@ -3,6 +3,23 @@ export default {
   description: "个人工具集与技术博客",
   base: '/ZuoglTools/',
 
+  vite: {
+    build: {
+      assetsDir: 'assets',
+      rollupOptions: {
+        output: {
+          assetFileNames: 'assets/[name].[hash].[ext]'
+        }
+      }
+    },
+    server: {
+      fs: {
+        // 允许超出项目根目录的文件访问
+        strict: false
+      }
+    }
+  },
+
   themeConfig: {
     logo: '/logo.png',
     
